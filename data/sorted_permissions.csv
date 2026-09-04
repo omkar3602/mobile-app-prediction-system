@@ -1,0 +1,150 @@
+Permission,Count
+Other : full network access,5364.0
+Other : view network connections,5301.0
+Other : prevent device from sleeping,5102.0
+Photos/Media/Files : read the contents of your USB storage,4361.0
+Storage : read the contents of your USB storage,4361.0
+Uncategorized : receive data from Internet,4344.0
+Photos/Media/Files : modify or delete the contents of your USB storage,4120.0
+Storage : modify or delete the contents of your USB storage,4120.0
+Other : control vibration,4043.0
+Other : run at startup,4018.0
+Camera : take pictures and videos,3562.0
+Wi-Fi connection information : view Wi-Fi connections,3474.0
+Location : precise location (GPS and network-based),3208.0
+Location : approximate location (network-based),3199.0
+Other : pair with Bluetooth devices,2790.0
+Microphone : record audio,2780.0
+Other : change your audio settings,2451.0
+Other : access Bluetooth settings,2288.0
+Calendar : read calendar events plus confidential information,2225.0
+Calendar : add or modify calendar events and send email to guests without owners' knowledge,2219.0
+Other : Google Play license check,1865.0
+Contacts : read your contacts,1662.0
+Device ID & call information : read phone status and identity,914.0
+Phone : read phone status and identity,914.0
+Other : draw over other apps,746.0
+Other : read Google service configuration,559.0
+Phone : directly call phone numbers,423.0
+Contacts : find accounts on the device,406.0
+Identity : find accounts on the device,406.0
+Other : connect and disconnect from Wi-Fi,290.0
+Uncategorized : download files without notification,274.0
+Other : control flashlight,228.0
+Wearable sensors/Activity data : body sensors (like heart rate monitors),228.0
+Other : use accounts on the device,222.0
+Other : change network connectivity,220.0
+Other : control Near Field Communication,207.0
+Other : reorder running apps,191.0
+Other : disable your screen lock,181.0
+Identity : add or remove accounts,153.0
+Other : set an alarm,153.0
+Other : modify system settings,150.0
+Other : create accounts and set passwords,135.0
+Device & app history : retrieve running apps,131.0
+Phone : read call log,123.0
+Other : toggle sync on and off,118.0
+Other : read sync settings,113.0
+Other : send sticky broadcast,102.0
+Contacts : modify your contacts,95.0
+Other : allow Wi-Fi Multicast reception,94.0
+Location : access extra location provider commands,92.0
+Uncategorized : read sync statistics,85.0
+SMS : receive text messages (SMS),75.0
+SMS : read your text messages (SMS or MMS),64.0
+Device & app history : read sensitive log data,63.0
+Uncategorized : allow Bluetooth pairing by Application,62.0
+Photos/Media/Files : access USB storage filesystem,59.0
+SMS : send SMS messages,52.0
+Other : install shortcuts,39.0
+Uncategorized : control media playback and metadata access,37.0
+Other : read battery statistics,36.0
+Uncategorized : power device on or off,35.0
+Other : close other apps,34.0
+Uncategorized : bind to a notification listener service,34.0
+Uncategorized : Access download manager.,30.0
+Other : change system display settings,26.0
+Identity : read your own contact card,25.0
+Uncategorized : close other apps,24.0
+Uncategorized : manage document storage,23.0
+Uncategorized : update component usage statistics,23.0
+Uncategorized : read Home settings and shortcuts,21.0
+Other : set wallpaper,17.0
+Uncategorized : full license to interact across users,16.0
+Phone : reroute outgoing calls,14.0
+Other : uninstall shortcuts,13.0
+Other : enable app debugging,12.0
+Other : measure app storage space,12.0
+Phone : modify phone state,12.0
+Other : expand/collapse status bar,11.0
+Uncategorized : capture audio output,10.0
+Uncategorized : manage users,10.0
+Uncategorized : read TV channel/program information,10.0
+Uncategorized : test hardware,10.0
+Uncategorized : write TV channel/program information,10.0
+Other : mock location sources for testing,9.0
+Uncategorized : modify secure system settings,9.0
+Uncategorized : press keys and control buttons,8.0
+Phone : write call log,7.0
+Uncategorized : capture video output,7.0
+Uncategorized : modify/delete internal media storage contents,7.0
+Uncategorized : run in factory test mode,6.0
+Other : add words to user-defined dictionary,5.0
+Other : delete all app cache data,5.0
+Other : read terms you added to the dictionary,5.0
+Uncategorized : Access all system downloads,5.0
+Uncategorized : interact across users,5.0
+Uncategorized : permission to install a location provider,5.0
+Uncategorized : run the application's scheduled background work,5.0
+Device & app history : retrieve system internal state,4.0
+Other : act as the AccountManagerService,4.0
+Phone : directly call any phone numbers,4.0
+SMS : edit your text messages (SMS or MMS),4.0
+Uncategorized : directly install apps,4.0
+Uncategorized : write Home settings and shortcuts,4.0
+Other : modify global animation speed,3.0
+Phone : make/receive SIP calls,3.0
+Uncategorized : access checkin properties,3.0
+Uncategorized : enable or disable app components,3.0
+Uncategorized : read subscribed feeds,3.0
+Uncategorized : retrieve running apps,3.0
+Uncategorized : transmit infrared,3.0
+Uncategorized : write subscribed feeds,3.0
+Other : force background apps to close,2.0
+SMS : receive text messages (MMS),2.0
+Uncategorized : Send download notifications.,2.0
+Uncategorized : access SurfaceFlinger,2.0
+Uncategorized : bind to a voice interactor,2.0
+Uncategorized : bind to an accessibility service,2.0
+Uncategorized : capture secure video output,2.0
+Uncategorized : change screen orientation,2.0
+Uncategorized : delete apps,2.0
+Uncategorized : delete other apps' caches,2.0
+Uncategorized : record what you type and actions you take,2.0
+Device & app history : read your Web bookmarks and history,1.0
+Other : limit number of running processes,1.0
+Other : make app always run,1.0
+Other : send Linux signals to apps,1.0
+Other : set time zone,1.0
+Photos/Media/Files : erase USB storage,1.0
+Uncategorized : Access keyguard secure storage,1.0
+Uncategorized : Advanced download manager functions.,1.0
+Uncategorized : Control displaying and hiding keyguard,1.0
+Uncategorized : Read email attachments,1.0
+Uncategorized : adjust your wallpaper size,1.0
+Uncategorized : bind to a dream service,1.0
+Uncategorized : configure Wifi displays,1.0
+Uncategorized : control Wifi displays,1.0
+Uncategorized : control location update notifications,1.0
+Uncategorized : control vibration,1.0
+Uncategorized : delete other apps' data,1.0
+Uncategorized : display unauthorized windows,1.0
+Uncategorized : force app to close,1.0
+Uncategorized : force device reboot,1.0
+Uncategorized : force stop other apps,1.0
+Uncategorized : interact with in-call screen,1.0
+Uncategorized : read Google service configuration,1.0
+Uncategorized : read frame buffer,1.0
+Uncategorized : read precise phone states,1.0
+Uncategorized : send SMS-received broadcast,1.0
+Uncategorized : set time,1.0
